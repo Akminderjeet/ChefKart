@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+# Select the mock data Excel file and add it to the input.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
